@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Light</string>
+    <string name="title_activity_main">Light</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+    <string name="help">Help</string>
+    <string name="title_activity_about">Author</string>
+	<string name="application_about">Light application for Android. Beta Version</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Luz</string>
+    <string name="title_activity_main">Luz</string>
+    <string name="state_on">Encendido</string>
+    <string name="state_off">Apagado</string>
+    <string name="help">Ayuda</string>
+    <string name="title_activity_about">Autor</string>
+	<string name="application_about">Aplicación de linterna para android. Versión Beta</string>
+</resources>
